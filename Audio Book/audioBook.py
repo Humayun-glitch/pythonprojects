@@ -1,6 +1,6 @@
 import pyttsx3
 
-book=open(r"D:\Python Programs\Python Projects\book.txt")
+book=open(r"book.txt")
 
 bookText=book.readlines()
 
